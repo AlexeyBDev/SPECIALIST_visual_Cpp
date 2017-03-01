@@ -21,9 +21,15 @@
     <ClCompile Include="..\Week_1\CPP_2\code\point\point.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="iLine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Week_1\CPP_2\code\point\point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="iLine.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

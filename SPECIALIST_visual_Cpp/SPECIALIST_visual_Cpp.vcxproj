@@ -121,9 +121,11 @@
   <ItemGroup>
     <ClCompile Include="..\Week_1\CPP_2\code\point\point.cpp" />
     <ClCompile Include="..\Week_1\CPP_2\code\point\usePoint.cpp" />
+    <ClCompile Include="iLine.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Week_1\CPP_2\code\point\point.h" />
+    <ClInclude Include="iLine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
