@@ -15,36 +15,24 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Week_1\CPP_2\code\point\usePoint.cpp">
+    <Text Include="inClassRoom_02.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Line\point.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\Week_1\CPP_2\code\point\point.cpp">
+    <ClCompile Include="Line\useLine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="iLine.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Time.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Date.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="useDate_Time.cpp">
+    <ClCompile Include="my_String.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\Week_1\CPP_2\code\point\point.h">
+    <ClInclude Include="Line\point.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="iLine.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Time.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Date.h">
+    <ClInclude Include="my_String.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

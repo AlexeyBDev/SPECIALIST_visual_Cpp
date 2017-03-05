@@ -4,7 +4,7 @@ using namespace std;
 
 //---------------------------------------------------------------------
 
-class Time  
+class Time_old  
 {
 private:
 	int hour, min, sec;
@@ -17,7 +17,7 @@ public:
 
 //---------------------------------------------------------------------
 
-struct Date  
+struct Date_old  
 {
 	int day, mon, year;
 };
