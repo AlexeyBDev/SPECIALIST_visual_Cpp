@@ -15,31 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="inClassRoom_02.txt" />
+    <Text Include="inClassRoom.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Line\point.cpp">
+    <ClCompile Include="String .cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Line\useLine.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="my_String.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Triangle.cpp">
+    <ClCompile Include="useString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Line\point.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="my_String.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Triangle.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="String.h">
+      <Filter>Resource Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
