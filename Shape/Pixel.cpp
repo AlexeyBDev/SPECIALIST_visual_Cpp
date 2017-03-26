@@ -30,5 +30,5 @@ void Pixel::SetColor(const Color &clr)
 void Pixel::Print(std::ostream &os)const
 {
     Point::Print(os);
-    os<<c;
+    os << c;
 }
